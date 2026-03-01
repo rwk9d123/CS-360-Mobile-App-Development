@@ -1,2 +1,9 @@
 # CS-360-Mobile-App-Development
-Test
+
+In my CS-360 course, we were tasked with creating an inventory management application that would allow the user to create and store multiple inventory items in a grid view.  There would be a login screen that would give the app user the option to create a profile or login as an existing user.  We also needed to ask the user for permission to send SMS notifications, which would be used to notify the user when inventory levels dropped below a pre-determined level.  Finally, the main screen would contain the grid view, which the user could interact with to add or modify inventory items.
+
+Although I did not complete the project due to life - two children under two and everything that goes with that - I did learn a lot about the development process.  Primarily, I learned how to implement the model-view-controller protocol.  I really like this way of structuring a mobile application because it is very structured and repeatable, and allows for different components of the application to be packaged nicely.  This makes making future modifications very easy.
+
+I also think that laying out the visual design and user workflow early in the process was very helpful to the overall goal of the project.  By doing this, I had a clear idea of what I was trying to accomplish and could have this in the back of my mind when making decisions throughout the development process.
+
+Again, I did not complete the application, so I was not able to test the overall functionality.  I did, however, constantly use the device simulator throughout the entire development process to test the functionality of the app throughout development.  This was very helpful becasue it let me know right away when I made a mistake that caused my app to crash or perform in an unexpected way.  This made the troubleshooting process much easier since I could pinpoint the exact moment the mistake occurred.
